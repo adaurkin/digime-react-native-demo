@@ -12,6 +12,16 @@ This is a **proof of concept demonstrator** to show how we can control our sensi
 * Smart shopping
 * ...
 
+## Monetization
+* Commission on payments
+* Share of discounts
+* Subscription
+* Revenue sharing with partners
+
+## Further development
+* Integration into digi.me
+* Standalone development
+
 ## Technologies used
 * React Native
 * digi.me SDK
