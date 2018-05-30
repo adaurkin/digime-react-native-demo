@@ -15,7 +15,7 @@ const devInstructions = RNative.Platform.select({
 export class WelcomeView extends React.Component<any, any> {
     public render() {
         return <View style={[Styles.centered, Styles.fill]}>
-            <Image source={require("../../assets/images/digime-app-icon-256.png")}/>
+            <Image source={require("../../assets/images/poweredby_digi.me_logo.png")}/>
             <Text style={Styles.h1}>
                 digi.me Consent Access
             </Text>
