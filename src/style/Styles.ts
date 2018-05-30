@@ -5,6 +5,15 @@ export interface IStyleable {
 }
 
 export const Styles = RNative.StyleSheet.create({
+    container: {
+        flex: 1
+    },
+    tbar: {
+        height: 100,
+        alignSelf: 'stretch',
+        justifyContent: "center",
+        flex: 1,
+    },
     centered: {
         alignItems: "center",
         justifyContent: "center",
