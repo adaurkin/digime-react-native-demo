@@ -1,4 +1,3 @@
-![logo]
 # Consent to Things
 ## Safe sharing of your data to IoT devices
 Based on [digi.me React-Native Demo](https://github.com/digime/digime-react-native-demo)
